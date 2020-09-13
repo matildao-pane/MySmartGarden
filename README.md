@@ -48,6 +48,7 @@ open the SmartGardenSimulation.csc in the cooja simulator.
 
 open another terminal inside the folder rpl-border-route and run this command:
 
+
 ```sh
 make TARGET=cooja connect-router-cooja
 ```
