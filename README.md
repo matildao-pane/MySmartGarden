@@ -29,14 +29,14 @@ On the gate node the green led states if the gate is open or not.
 
 On the irrigator node the green led represent the irrigator status, if the red led is on, it means that the humidity value detected is lower than the threshold, if the yellow led is on it means that the light value detected is lower than the threshold (the sunset has come). 
 
-![cooja](/doc/cli.png)
+![cooja](/doc/2.png)
 
 ## Cloud App
 In the cloud application at the beginning the Coap Server registers all the resources of the nodes and start observing them.
 
 The command line interface let the user interact with the system:
 
-![cli](/doc/cooja.png)
+![cli](/doc/1.png)
 
 
 ## Run it
