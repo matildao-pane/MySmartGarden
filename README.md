@@ -3,7 +3,7 @@
 ### Internet Of Things project by Matilde Mazzini
 
 
-## Introdution
+## Introduction
 This project take inspiration from my garden. I developed a smart garden system, based on sensors and actuator installed in the area outside the house.
 
 The devices can interface with a cloud application that shows the status of the devices and give the possibility to change it to the user.
