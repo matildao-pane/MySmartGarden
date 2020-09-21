@@ -1,7 +1,6 @@
 # MySmartGarden
 
-### Internet Of Things project by Matilde Mazzini
-
+### Internet Of Things project by @matildao-pane
 
 ## Introduction
 This project takes inspiration from my garden. I developed a smart garden system, based on sensors and actuator installed in the area outside the house.
